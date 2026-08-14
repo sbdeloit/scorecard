@@ -1,0 +1,393 @@
+# ============================================================
+# BOOTSTRAP / ENVIRONMENT
+# ============================================================
+
+pip
+setuptools
+wheel
+virtualenv
+
+
+# ============================================================
+# JUPYTER
+# ============================================================
+
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+jupyterlab-widgets
+nbconvert
+nbformat
+jupyterlab-lsp
+
+
+# ============================================================
+# CORE SCIENTIFIC COMPUTING
+# ============================================================
+
+numpy
+scipy
+pandas
+polars
+pyarrow
+bottleneck
+numexpr
+
+
+# ============================================================
+# LARGE DATA PROCESSING
+# ============================================================
+
+datatable
+vaex
+duckdb
+dask
+modin
+fastparquet
+tables
+h5py
+
+
+# ============================================================
+# EXCEL / OFFICE
+# ============================================================
+
+openpyxl
+xlsxwriter
+xlrd
+xlwt
+odfpy
+python-docx
+python-pptx
+tabulate
+
+
+# ============================================================
+# STATISTICS
+# ============================================================
+
+statsmodels
+pingouin
+researchpy
+lifelines
+
+
+# ============================================================
+# MACHINE LEARNING
+# ============================================================
+
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+river
+
+
+# ============================================================
+# FEATURE ENGINEERING
+# ============================================================
+
+feature-engine
+category-encoders
+dirty-cat
+featuretools
+
+
+# ============================================================
+# CREDIT RISK / SCORECARDS
+# ============================================================
+
+optbinning
+scorecardpy
+skorecard
+toad
+scorecard
+scorecard-package
+monotonic-binning
+varclushi
+
+
+# ============================================================
+# FEATURE SELECTION
+# ============================================================
+
+mlxtend
+Boruta
+BorutaShap
+
+
+# ============================================================
+# HYPERPARAMETER OPTIMIZATION
+# ============================================================
+
+optuna
+hyperopt
+scikit-optimize
+bayesian-optimization
+nevergrad
+
+
+# ============================================================
+# EXPLAINABILITY
+# ============================================================
+
+shap
+eli5
+lime
+interpret
+
+
+# ============================================================
+# VALIDATION / METRICS
+# ============================================================
+
+yellowbrick
+scikit-plot
+
+
+# ============================================================
+# DATA PROFILING
+# ============================================================
+
+ydata-profiling
+sweetviz
+dataprep
+
+
+# ============================================================
+# DATA VALIDATION
+# ============================================================
+
+pandera
+great-expectations
+cerberus
+
+
+# ============================================================
+# DRIFT / MONITORING
+# ============================================================
+
+evidently
+deepchecks
+alibi-detect
+whylogs
+
+
+# ============================================================
+# VISUALIZATION
+# ============================================================
+
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+holoviews
+hvplot
+plotnine
+missingno
+graphviz
+networkx
+wordcloud
+
+
+# ============================================================
+# PARALLEL / DISTRIBUTED COMPUTING
+# ============================================================
+
+joblib
+ray
+multiprocess
+pathos
+
+
+# ============================================================
+# PERFORMANCE / OPTIMIZATION
+# ============================================================
+
+numba
+cython
+
+
+# ============================================================
+# UTILITIES
+# ============================================================
+
+tqdm
+rich
+loguru
+colorama
+python-dotenv
+packaging
+python-dateutil
+pytz
+tzdata
+requests
+urllib3
+httpx
+orjson
+ujson
+simplejson
+PyYAML
+toml
+tomli
+tomlkit
+jsonschema
+
+
+# ============================================================
+# DATABASES
+# ============================================================
+
+sqlalchemy
+pyodbc
+oracledb
+psycopg2-binary
+pymysql
+mysqlclient
+snowflake-connector-python
+pymssql
+pymongo
+redis
+
+
+# ============================================================
+# FILE FORMATS / PARSING
+# ============================================================
+
+lxml
+beautifulsoup4
+html5lib
+xmltodict
+
+
+# ============================================================
+# REPORTING / PDF
+# ============================================================
+
+jinja2
+reportlab
+weasyprint
+pdfkit
+fpdf2
+
+
+# ============================================================
+# MODEL PERSISTENCE
+# ============================================================
+
+cloudpickle
+dill
+onnx
+onnxruntime
+skl2onnx
+
+
+# ============================================================
+# APIS
+# ============================================================
+
+fastapi
+uvicorn
+flask
+flask-restful
+pydantic
+
+
+# ============================================================
+# DASHBOARDS
+# ============================================================
+
+streamlit
+dash
+panel
+gradio
+
+
+# ============================================================
+# WORKFLOW / MLOPS
+# ============================================================
+
+mlflow
+kedro
+prefect
+apache-airflow
+
+
+# ============================================================
+# TESTING
+# ============================================================
+
+pytest
+pytest-cov
+coverage
+hypothesis
+
+
+# ============================================================
+# CODE QUALITY
+# ============================================================
+
+black
+isort
+flake8
+pylint
+mypy
+pre-commit
+autopep8
+ruff
+
+
+# ============================================================
+# DEBUGGING / PROFILING
+# ============================================================
+
+ipdb
+line-profiler
+memory-profiler
+snakeviz
+viztracer
+pyinstrument
+py-spy
+perfplot
+
+
+# ============================================================
+# NLP / STRING MATCHING
+# ============================================================
+
+nltk
+spacy
+textblob
+rapidfuzz
+
+
+# ============================================================
+# IMAGES
+# ============================================================
+
+Pillow
+imageio
+opencv-python
+
+
+# ============================================================
+# BIG DATA
+# ============================================================
+
+pyspark
+delta-spark
+findspark
+pyhive
+trino
+
+
+# ============================================================
+# GPU / NVIDIA
+# ============================================================
+
+cupy
+cudf
+cuml
